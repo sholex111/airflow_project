@@ -1,2 +1,2 @@
 # airflow_project
-Apache Airflow - Getting started
+ Getting started with Apache Airflow
